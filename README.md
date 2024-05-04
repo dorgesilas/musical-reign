@@ -19,4 +19,7 @@ This data is provided to answer a number of hypothesis from the instructor such 
 - Musical preference difference in two certain days
 - Music genre preference in two different cities
 
-# Students are then tasked to compile their findings, and make conclusion.
+## Students are then tasked to compile their findings, and make conclusion.
+
+# Process
+![Aset_Process](https://github.com/dorgesilas/musical-reign/assets/17200688/f7ab631a-7536-48cf-838e-0ac2f9e2dd98)
