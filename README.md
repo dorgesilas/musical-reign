@@ -1,3 +1,5 @@
+![Aset-01](https://github.com/dorgesilas/musical-reign/assets/17200688/4472d847-e765-49ff-8be5-51e2965c876a)
+
 # musical-reign
 Project 1 in tripleten (formerly practicum) data analyst bootcamp.
 
